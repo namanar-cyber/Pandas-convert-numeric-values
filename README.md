@@ -1,0 +1,1 @@
+This Python project utilizes the Pandas library to transform numeric values into their corresponding text representations in Excel sheets. The script reads data from an input spreadsheet, converts numbers to text format  and generates a new output sheet with the converted values.
